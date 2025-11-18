@@ -22,4 +22,4 @@ This demo streams synthetic hospital appointment data from Kafka into Postgres a
 - Raw data preview: top 10 latest records for quick inspection.
 
 ## Verification of Live Updates
-<video src="LiveUpdates.mov" width="320" height="240" controls></video>
+<video src="LiveUpdates.mp4" width="320" height="240" controls></video>
