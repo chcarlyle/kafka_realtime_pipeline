@@ -21,4 +21,5 @@ This demo streams synthetic hospital appointment data from Kafka into Postgres a
 - Payment Mix: avg cost vs avg copay by payment method.
 - Raw data preview: top 10 latest records for quick inspection.
 
-## The short video showing successful live dashboard updates is included in `LiveUpdates.mov`
+## Verification of Live Updates
+<video src="LiveUpdates.mov" width="320" height="240" controls></video>
